@@ -21,7 +21,7 @@ ul {
     display: flex;
     flex-flow: row;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
 }
 #menu li {
     display: inline;
@@ -50,7 +50,7 @@ ul {
   height: 40px;
 }
 .margem {
-    margin-bottom: 60px;
+    margin-bottom: 80px;
 }
 .margemcontato {
     margin-left: 50px;
